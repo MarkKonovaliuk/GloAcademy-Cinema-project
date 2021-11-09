@@ -213,3 +213,12 @@ body {
 	font-size: 52px;
 	line-height: 61px;
 }
+.button {
+	background: #fe8e05;
+	border-radius: 5px;
+	color: white;
+	font-size: 18px;
+	line-height: 21px;
+	padding: 24px 52px;
+	text-decoration: none;
+}
